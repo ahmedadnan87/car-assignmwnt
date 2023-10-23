@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #230;
+    height: 80px;
+}
+.navbar-brand{
+
+    color: #fff;
+    font-weight: bold;
+}
+
+.form-select{
+    width: 200px;
+}
+.card-img-top{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}
